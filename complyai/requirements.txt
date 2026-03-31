@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+shap
+scikit-learn
+pandas
+numpy
+reportlab
+sqlalchemy
+python-multipart
+pydantic
